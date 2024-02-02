@@ -97,7 +97,6 @@ Overall Number of Orders = COUNT(Table_name[Order_ID]) + COUNT(Table_name[Order_
 
 ### RESULTS
 
-It was observed that:
 -	It was observed that the least revenue was in January (#1,815,335) and the most revenue was in December (#4,619,297).
 -	It was observed that the top 3 revenue are: San Francisco (#8,262,203), Los Angeles (#5,452,570), New York city (#4,664,317) while the bottom 3 are: Seattle (#2,747,755), Portland (#2,320,490), Austin (#1,819,581).
 -	The best-selling products, in order, in 2019 are: USB-C charging cable, lightning charging cable, AA batteries (4-pack), AAA batteries (4-pack), wired headphones, apple air pods headphones.
