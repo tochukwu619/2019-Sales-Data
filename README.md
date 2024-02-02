@@ -52,6 +52,7 @@ The KPI asked during this project was:
 -	Correlation between quantity of products ordered and unit price
 -	Proportion of products sold by city
 -	Relationship between monthly sales and quantity ordered
+-	Average order value (AOV)
 
 
 
